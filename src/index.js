@@ -29,5 +29,5 @@ function resetDiv() {
 }
 
 homeStart();
-// menuStart();
+//menuStart();
 //teamStart();
